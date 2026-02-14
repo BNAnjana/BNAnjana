@@ -35,27 +35,52 @@ Here are some ideas to get you started:
 
 ---
 
-# 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 ### 👨‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,sql&theme=dark&perline=6" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br/>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sql" width="50"/><br/>SQL</td>
+</tr>
+</table>
 
-### ⚛️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,shadcn&theme=dark&perline=6" />
-</p>
+---
+
+### 🌐 Frontend
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br/>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br/>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=shadcn" width="50"/><br/>shadcn/ui</td>
+</tr>
+</table>
+
+---
 
 ### 🛠 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase&theme=dark&perline=6" />
-</p>
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="50"/><br/>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/>Firebase</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br/>Supabase</td>
+</tr>
+</table>
 
-### 🔐 Authentication & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postman&theme=dark&perline=6" />
-</p>
+---
+
+### 🧰 Tools
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>Postman</td>
+</tr>
+</table>
 
 ---
 
