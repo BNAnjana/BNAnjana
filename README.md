@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br/>C</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50"/><br/>Python</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sql" width="50"/><br/>SQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>SQL</td>
 </tr>
 </table>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br/>CSS</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=shadcn" width="50"/><br/>shadcn/ui</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50"/><br/>shadcn/ui</td>
 </tr>
 </table>
 
